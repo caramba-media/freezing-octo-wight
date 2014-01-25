@@ -18,7 +18,7 @@
 |
 */
 
-require '/home/bgarate1/apps/bootstrap/autoload.php';
+require '/home/bgarate1/applicaciones/proyecto/bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -32,7 +32,7 @@ require '/home/bgarate1/apps/bootstrap/autoload.php';
 |
 */
 
-$app = require_once '/home/bgarate1/apps/bootstrap/start.php';
+$app = require_once '/home/bgarate1/applicaciones/proyecto/bootstrap/start.php';
 
 /*
 |--------------------------------------------------------------------------
