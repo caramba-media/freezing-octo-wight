@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'app' => __DIR__.'/../../apps/app',
+	'app' => '/home/bgarate1/apps/app',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'public' => __DIR__,
+	'public' => '/home/bgarate1/public_html/proyecto',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -39,7 +39,7 @@ return array(
 	|
 	*/
 
-	'base' => __DIR__.'/../../apps',
+	'base' => '/home/bgarate1/apps',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -52,6 +52,6 @@ return array(
 	|
 	*/
 
-	'storage' => __DIR__.'/../../apps/app/storage',
+	'storage' => '/home/bgarate1/apps/app/storage',
 
 );

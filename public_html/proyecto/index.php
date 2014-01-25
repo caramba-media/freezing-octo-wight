@@ -18,7 +18,7 @@
 |
 */
 
-require __DIR__.'/../../apps/bootstrap/autoload.php';
+require '/home/bgarate1/apps/bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -32,7 +32,7 @@ require __DIR__.'/../../apps/bootstrap/autoload.php';
 |
 */
 
-$app = require_once __DIR__.'/../../apps/bootstrap/start.php';
+$app = require_once '/home/bgarate1/apps/bootstrap/start.php';
 
 /*
 |--------------------------------------------------------------------------
